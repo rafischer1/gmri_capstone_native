@@ -1,0 +1,3 @@
+rootProject.name = 'gmri_capstone_native'
+
+include ':app'
